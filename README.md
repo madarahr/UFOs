@@ -12,3 +12,7 @@ Using Javascript and Bootstrap:
 * Customize the website using Bootstrap
 
 ![](static/images/nasa.png)
+
+## Recommendation
+
+Filtering by the format of 01/13/2010 does not produce any results but 1/13/2010 produces the results as the data.js file follows the later format.  It is recommended to further develop the code to enable accepting either formats for filtering purposes or embed a calendar to click and select the right date.
